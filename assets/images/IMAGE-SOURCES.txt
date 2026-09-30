@@ -1,0 +1,3 @@
+Photo assets are referenced from Unsplash image CDN URLs in assets/js/data.js for this concept portfolio build.
+The UI includes local SVG visual assets and graceful background colors.
+For a fully offline commercial handoff, replace each remote URL in data.js with locally licensed WebP files using the same data keys.

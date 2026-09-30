@@ -1,0 +1,1 @@
+/* Room data lives in data.js to keep one source of truth. */
